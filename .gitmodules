@@ -1,3 +1,0 @@
-[submodule "dir3/submodule-repo"]
-	path = dir3/submodule-repo
-	url = ../submodule-repo
