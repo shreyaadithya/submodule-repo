@@ -1,3 +1,6 @@
 [submodule "dir3/submodule-repo"]
 	path = dir3/submodule-repo
 	url = https://github.com/shreyaadithya/submodule-repo.git
+[submodule "dir2/submodule-abc"]
+	path = dir2/submodule-abc
+	url = https://github.com/shreyaadithya/new-repo.git
